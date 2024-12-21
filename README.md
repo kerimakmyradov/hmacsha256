@@ -2,7 +2,7 @@
 
 This is a test of the HMAC SHA-256 signature generation and validation.
 
-The code is based on the documentation from the [API documentation](https://docs.api.com/docs/api-reference/authentication/hmac-sha-256-signature-generation-and-validation).
+The code is based on the documentation from the [API documentation](https://datatracker.ietf.org/doc/html/rfc4868).
 
 ### Running the code
 
